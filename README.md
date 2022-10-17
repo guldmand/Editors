@@ -14,6 +14,10 @@ Coda <br />
 https://panic.com/coda/ <br />
 <br />
 
+Eclipse <br />
+https://www.eclipse.org/ <br />
+<br />
+
 emacs <br />
 https://www.gnu.org/software/emacs/ <br />
 <br />
